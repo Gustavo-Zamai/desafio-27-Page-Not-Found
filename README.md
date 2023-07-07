@@ -28,7 +28,6 @@ O desafio da semana 27 da Rocketseat é sobre criar uma página web de Page Not 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
@@ -39,8 +38,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Desafio é sobre desenvolver uma página web contendo o erro 404 (Error Page not found 404).
 
 
-<!--[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/dev_links)
--->
+[Acesse o projeto finalizado, online](https://Gustavo-Zamai.github.io/desafio-27-Page-Not-Found)
+
 
 ---
 
@@ -62,4 +61,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Gustavo Zamai 😏😄
+Feito com ♥ por Gustavo Zamai
