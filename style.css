@@ -17,9 +17,11 @@ body {
 }
 
 #container {
-  height: 900px;
-  padding: 160px 300px;
   display: inline-flex;
+  padding: 160px 300px;
+  height: 900px;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Conteúdo de texto*/
@@ -90,16 +92,18 @@ body {
 /* Page Not Found (PNF)*/
 
 #pnf {
-  margin-left: 240px;
   display: inline-flex;
   align-items: center;
-  margin-bottom: 350px;
+  margin-left: 240px;
+  margin-bottom: 100px;
   gap: 8px;
 }
 
 #pnf .dois {
     width: 230px;
     height: 230px;
+    background: rgb(39, 21, 75);
+    border-radius: 100%;
 
 }
 
